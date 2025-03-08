@@ -19,7 +19,7 @@ The Task Manager app allows users to create, read, update, and delete tasks. Eac
 
 1. **Clone the Repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Hedmon0094/mern-task-manager
 cd mern-task-manager
 ```
 
@@ -30,7 +30,7 @@ npm install
 ```
 Create a `.env` file and add your MongoDB URI:
 ```
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=
 PORT=5000
 ```
 Run the server:
@@ -80,8 +80,6 @@ npm run dev
 - **Backend:** Deployed on Render
 - **Frontend:** Deployed on Vercel
 
-
-```
 
 
 
